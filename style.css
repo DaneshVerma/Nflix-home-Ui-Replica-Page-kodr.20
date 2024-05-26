@@ -270,7 +270,11 @@
       color: white;
 
   }
-
+  .Contact{
+    color: red;
+    text-decoration: none;
+    margin: 0 1rem;
+  }
   .footer-item {
       display: flex;
       gap: 14px;
@@ -302,7 +306,10 @@
       .hero>:nth-child(1) {
           font-size: 1.5rem;
       }
-
+      .questions{
+        text-decoration: none;
+        color: red;
+      }
       .hero {
           height: 550px;
           bottom: 135px;
