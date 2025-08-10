@@ -7,7 +7,7 @@ const NetflixHeader = () => {
         {/* Logo */}
         <div className="flex items-center space-x-8">
           <img
-            src="assests/Images/logo.svg"
+            src="assets/logo.svg"
             alt="Netflix"
             className="h-8 md:h-10"
           />
