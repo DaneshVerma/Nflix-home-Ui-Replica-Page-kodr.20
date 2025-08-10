@@ -1,0 +1,163 @@
+{
+  "featured": {
+    "id": 1,
+    "title": "Stranger Things",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "image": "https://images.unsplash.com/photo-1489599162718-3cb1c2b1a7f5?w=1200&h=600&fit=crop",
+    "genre": "Sci-Fi",
+    "rating": "TV-14",
+    "year": "2016"
+  },
+  "trending": [
+    {
+      "id": 2,
+      "title": "The Witcher",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop",
+      "genre": "Fantasy"
+    },
+    {
+      "id": 3,
+      "title": "Money Heist",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop",
+      "genre": "Crime"
+    },
+    {
+      "id": 4,
+      "title": "Dark",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=450&fit=crop",
+      "genre": "Thriller"
+    },
+    {
+      "id": 5,
+      "title": "Ozark",
+      "image": "https://images.unsplash.com/photo-1489599162718-3cb1c2b1a7f5?w=300&h=450&fit=crop",
+      "genre": "Drama"
+    },
+    {
+      "id": 6,
+      "title": "Narcos",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=300&h=450&fit=crop",
+      "genre": "Crime"
+    },
+    {
+      "id": 7,
+      "title": "Black Mirror",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=300&h=450&fit=crop",
+      "genre": "Sci-Fi"
+    }
+  ],
+  "topPicks": [
+    {
+      "id": 8,
+      "title": "The Crown",
+      "image": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=300&h=450&fit=crop",
+      "genre": "Drama"
+    },
+    {
+      "id": 9,
+      "title": "Bridgerton",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop",
+      "genre": "Romance"
+    },
+    {
+      "id": 10,
+      "title": "The Queen's Gambit",
+      "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=300&h=450&fit=crop",
+      "genre": "Drama"
+    },
+    {
+      "id": 11,
+      "title": "Squid Game",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop",
+      "genre": "Thriller"
+    },
+    {
+      "id": 12,
+      "title": "Lupin",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=450&fit=crop",
+      "genre": "Mystery"
+    },
+    {
+      "id": 13,
+      "title": "Emily in Paris",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=300&h=450&fit=crop",
+      "genre": "Comedy"
+    }
+  ],
+  "comedy": [
+    {
+      "id": 14,
+      "title": "The Good Place",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=300&h=450&fit=crop",
+      "genre": "Comedy"
+    },
+    {
+      "id": 15,
+      "title": "Brooklyn Nine-Nine",
+      "image": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=300&h=450&fit=crop",
+      "genre": "Comedy"
+    },
+    {
+      "id": 16,
+      "title": "Schitt's Creek",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop",
+      "genre": "Comedy"
+    },
+    {
+      "id": 17,
+      "title": "The Office",
+      "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=300&h=450&fit=crop",
+      "genre": "Comedy"
+    },
+    {
+      "id": 18,
+      "title": "Friends",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop",
+      "genre": "Comedy"
+    },
+    {
+      "id": 19,
+      "title": "Parks and Recreation",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=450&fit=crop",
+      "genre": "Comedy"
+    }
+  ],
+  "action": [
+    {
+      "id": 20,
+      "title": "John Wick",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=300&h=450&fit=crop",
+      "genre": "Action"
+    },
+    {
+      "id": 21,
+      "title": "Mad Max: Fury Road",
+      "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=300&h=450&fit=crop",
+      "genre": "Action"
+    },
+    {
+      "id": 22,
+      "title": "The Matrix",
+      "image": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=300&h=450&fit=crop",
+      "genre": "Action"
+    },
+    {
+      "id": 23,
+      "title": "Die Hard",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop",
+      "genre": "Action"
+    },
+    {
+      "id": 24,
+      "title": "Mission Impossible",
+      "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=300&h=450&fit=crop",
+      "genre": "Action"
+    },
+    {
+      "id": 25,
+      "title": "Fast & Furious",
+      "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop",
+      "genre": "Action"
+    }
+  ]
+}
