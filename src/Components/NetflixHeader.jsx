@@ -32,11 +32,7 @@ const NetflixHeader = () => {
           </button>
 
           {/* Notifications */}
-          <button className="text-white hover:text-gray-300 transition-colors">
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 17h5l-5 5v-5zM10 17H5l5 5v-5z" />
-            </svg>
-          </button>
+          
 
           {/* User Profile */}
           <div className="flex items-center space-x-2">
