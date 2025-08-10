@@ -37,7 +37,7 @@ const MovieSlider = ({ title, movies }) => {
   };
 
   return (
-    <div className="relative group w-[100vw] mb-8">
+    <div className="relative group mb-8">
       {/* Section Title */}
       <h2 className="text-white text-xl md:text-2xl font-bold mb-4 px-4 md:px-16">
         {title}
