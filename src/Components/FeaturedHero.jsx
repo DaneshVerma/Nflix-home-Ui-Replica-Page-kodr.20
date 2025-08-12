@@ -1,4 +1,3 @@
-import React from 'react';
 import moviesData from '../data/moviesData.json';
 
 const FeaturedHero = () => {

@@ -1,4 +1,3 @@
-import React from "react";
 import NetflixHomepage from "./Components/NetflixHomepage";
 
 const App = () => {

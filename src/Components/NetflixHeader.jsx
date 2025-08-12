@@ -1,5 +1,3 @@
-import React from 'react';
-
 const NetflixHeader = () => {
   return (
     <header className="fixed top-0 left-0 w-full bg-black/90 backdrop-blur-sm z-50 transition-all duration-300">

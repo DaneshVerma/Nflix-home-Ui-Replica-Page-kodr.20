@@ -1,4 +1,3 @@
-import React from 'react';
 import NetflixHeader from './NetflixHeader';
 import FeaturedHero from './FeaturedHero';
 import MovieSlider from './MovieSlider';
